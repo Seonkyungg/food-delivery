@@ -1,13 +1,12 @@
-![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
 # 과제
-# Event Storming
+## 1. Event Storming Model
 
 ![image](https://user-images.githubusercontent.com/88140439/212680957-b5a1d547-8df0-4531-8b06-2e36c42d9867.png)
 
 
-# 구현
-# 1. saga
+
+## 2. Saga(pub/sub)확인
 
 ![image](https://user-images.githubusercontent.com/88140439/212681482-ef1e008a-153f-46f7-919c-b5ebedaaa7b7.png)
 ![image](https://user-images.githubusercontent.com/88140439/212681501-519e18e1-a092-4ad1-a376-1533cbc56165.png)
@@ -17,7 +16,16 @@
 
 
 
-# 2. CQRS
+
+## 3. Service Router
+
+
+
+## 4. Zero downtime Deployment
+
+
+
+## 3. CQRS
 
 ![image](https://user-images.githubusercontent.com/88140439/212681747-d34db787-2080-4489-812a-272b61919ef1.png)
 ![image](https://user-images.githubusercontent.com/88140439/212681760-8c59a680-2370-44bd-bfe3-5c968fe1956c.png)
@@ -25,7 +33,7 @@
 8081주문서비스를 종료하여도 데이터가 저장된 8083주문관리 서비스에는 영향이 없음.
 
 
-# 3. Compensation / Correlation 
+## 3. Compensation / Correlation 
 
 
 
