@@ -81,3 +81,4 @@ public class 결제이력 {
         this.행위 = 행위;
     }
 }
+//

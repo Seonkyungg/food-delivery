@@ -17,3 +17,4 @@ public interface KafkaProcessor {
     MessageChannel outboundTopic();
 
 }
+//
