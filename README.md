@@ -32,3 +32,4 @@
 ![image](https://user-images.githubusercontent.com/88140439/212681972-213708c9-e89e-448f-a7b6-4d1b359b931f.png)
 
 주문을 취소하는 이벤트를 발행 하고, 해당 주문량에 대해 다시 원복하는 Compensation을 수행한다. 
+
